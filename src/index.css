@@ -15,8 +15,8 @@ h2 {
 /* Category Selector */
 .category-container {
     width: 40vw;
-    height: 55vh;
-    margin: 50px auto;
+    height: 70vh;
+    margin: 20px 20px 50px;
     padding: 20px;
     background: linear-gradient(135deg, #f1eff3, #5286df); 
     border-radius: 10%;
